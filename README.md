@@ -1,8 +1,9 @@
 # 料理クイズ
- 学校の教材と趣味のために試作したゲームです。  
- ５分くらいで終わると思います。
+学校の教材と趣味のために試作したゲームです。  
+５分くらいで終わると思います。
  
- Internet Explorerでは動作しません。firefoxやgoogle chromeを使用してください。
+IOS/Androidでも動作しますが  
+Internet Explorerでは動作しません。firefoxやgoogle chromeを使用してください。
 
 made with RPGツクールMV  
 ©2015 KADOKAWA CORPORATION./YOJI OJIMA
