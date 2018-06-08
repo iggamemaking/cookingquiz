@@ -1,9 +1,24 @@
 # 料理クイズ
 学校の教材と趣味のために試作したゲームです。  
 ５分くらいで終わると思います。
+軽くしかデバック作業をしていないので、バグがあるかもしれません。  
+見つけた場合は、よければ  
+ig.gamemaking@gmail.com  
+にご連絡ください。
  
 IOS/Androidでも動作しますが  
 Internet Explorerでは動作しません。firefoxやgoogle chromeを使用してください。
+
+操作方法  
+IOS/Android  
+シングルタッチで決定や移動　　
+ダブルタッチでキャンセル
+
+PC  
+左クリックで決定や移動  
+右クリックでキャンセル  
+Enterでも決定  
+矢印キーでも移動可能です
 
 made with RPGツクールMV  
 ©2015 KADOKAWA CORPORATION./YOJI OJIMA
